@@ -1,0 +1,92 @@
+body 
+{
+    background-color:rgb(239, 239, 239);
+}
+
+.insta-font
+{
+    font-family: 'Grand Hotel', cursive;
+    font-size: 30px;
+}
+
+.border-none
+{
+    border:none;
+}
+
+.ml-7 
+{
+    margin-left: 8em;
+}
+
+.ml-6 
+{
+    margin-left: 10em;
+}
+
+.nav-shadow
+{
+    background-color: rgb(239, 239, 239);
+    box-shadow: 1px 1px 10px 1px;
+}
+
+.bg-gr 
+{
+    background-color:rgb(255, 255, 255);
+}
+
+.border-radious 
+{
+    border-radius: 1em;
+}
+
+.f-right 
+{
+    float: right;
+}
+
+.border-radiouss
+{
+    border-radius: 25em;
+}
+
+.insta-border
+{
+            border:none;
+            background: -webkit-linear-gradient(45deg, rgb(247, 255, 15), rgb(255, 0, 249));
+            background: linear-gradient(45deg, rgb(247, 255, 15), rgb(255, 0, 249));
+            z-index:0;
+            padding:2px;
+}
+
+.ml-10 
+{
+    margin-left: 45em;
+
+    margin-top: -198em;
+}
+
+.tc 
+{
+    color:rgb(97, 96, 96);
+}
+
+.sticky 
+{
+    position: fixed;
+}
+
+.z-index 
+{
+    z-index: 1;
+}
+
+.mt-6 
+{
+    margin-top: 4em;
+}
+
+.width-1 
+{
+    width: 1425px;
+}
