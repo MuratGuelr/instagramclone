@@ -61,8 +61,7 @@ body
 
 .ml-10 
 {
-    margin-left: 45em;
-
+    margin:0 50%;
     margin-top: -198em;
 }
 
@@ -88,5 +87,10 @@ body
 
 .width-1 
 {
-    width: 1425px;
+    width: 100%;
+}
+
+.mt-mb
+{
+margin-top: -10px;
 }
